@@ -39,5 +39,13 @@ Unis Barakat ([unisbarakat@berkeley.edu](mailto:your_email@berkeley.edu))
 ## Screenshots
 
 <img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.24.57 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.25.23 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.25.28 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.25.33 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.27.34 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.28.09 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.28.34 AM.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Simulator Screen Shot Feb 14, 2016, 9.29.06 AM.png" height="400" alt="Screenshot"/>
+
 
 
