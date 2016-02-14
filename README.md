@@ -18,7 +18,7 @@ were the following:
 
 7) Connect patients with their mental health professional by making it easier for mental health professionals to monitor their patients.
 
-For the purposes of TreeHacks, this app was able to achieve the following:
+*For the purposes of TreeHacks, this app was able to achieve the following:*
 
 1) allow patients and mental health providers to sign up for the service.
 
